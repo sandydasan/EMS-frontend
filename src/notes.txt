@@ -1,0 +1,26 @@
+                                      Employee Management System
+                            ------------------------------------------------
+    ->npx create-react-app ems-froentend
+    ->cd ems-froentend
+    ->code .
+    ->npm start
+    ->clean up the code 
+
+
+ ->Install 3rd party libraries
+   -fontawesome - CP cdn link into index.html
+   -googlefonts - copy @import statement and paste it into index.html
+   -install react Bootstrap - npm i react-Bootstrap Bootstrap
+   -select bootswatch theme
+
+
+   ->component creation
+      admin 
+      add
+      view
+      Edit
+      pagenotfound
+
+
+  ->Path setup
+    -install React router dom -npm i react-router-dom
